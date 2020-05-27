@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-ch6"
+    }
+  },
+  "defaultProject": "angular-ch6",
+  "cli": {
+    "analytics": false
+  }
 }
